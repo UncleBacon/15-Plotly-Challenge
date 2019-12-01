@@ -4,7 +4,7 @@ function buildSlider(value){
     {
       domain: { x: [0, 1], y: [0, 1] },
       value: value,
-      title: { text: "Belly Button Washing Frequency" },
+      title: { text: "Weekly Washing Frequency" },
       type: "indicator",
       mode: "gauge+number",
       gauge: {
@@ -97,7 +97,7 @@ function buildGauge(value){
           width: 8
         }
       }],
-    title: 'Belly Button Washing Frequency',
+    title: 'Weekly Washing Frequency',
     xaxis: {visible: false, range: [-1, 1]},
     yaxis: {visible: false, range: [-1, 1]},
 
