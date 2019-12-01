@@ -97,7 +97,7 @@ function buildGauge(value){
           width: 8
         }
       }],
-    title: 'Weekly Wash Frequency',
+    title: 'Belly Button Washing Frequency',
     xaxis: {visible: false, range: [-1, 1]},
     yaxis: {visible: false, range: [-1, 1]},
 
