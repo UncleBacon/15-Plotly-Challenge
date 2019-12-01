@@ -8,7 +8,7 @@
     <li><h2>To Run</h2></li>
     <ol>
       <li>Clone repo</li>
-      <li> Navigate to "startercode/Belly_Button_Biodiversity</li>
+      <li> Navigate to "startercode/Belly_Button_Biodiversity"</li>
       <li>run app.py file</li>
     </ol>
   </ul>
