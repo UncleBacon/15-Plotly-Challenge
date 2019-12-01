@@ -9,6 +9,9 @@
 
 <li><H2>Website Images</H2></li>
   <ul>
-  <li><img src = "https://github.com/UncleBacon/15-Plotly-Challenge/blob/master/Images/Dashboard_Top.PNG" alt = "Website top view" title = "Website top view"></li>
+  <li><h3> Website Top</H3></li>
+  <img src = "https://github.com/UncleBacon/15-Plotly-Challenge/blob/master/Images/Dashboard_Top.PNG" alt = "Website top view" title = "Website top view">
 
-  <li><img src = "https://github.com/UncleBacon/15-Plotly-Challenge/blob/master/Images/Dashboard_bottom.PNG" alt = "Website bottom view" title = "Website bottom view"></li>
+  <li><h3> Website Bottom</H3></li>
+  <img src = "https://github.com/UncleBacon/15-Plotly-Challenge/blob/master/Images/Dashboard_bottom.PNG" alt = "Website bottom view" title = "Website bottom view">
+  </ul>
